@@ -15,3 +15,5 @@ def title_str(string: str) -> str:
     """
     return string.title()
 
+# fast fix bugs
+
