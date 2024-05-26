@@ -17,3 +17,8 @@ def title_str(string: str) -> str:
 
 # fast fix bugs
 
+
+def lower_str(string: str) -> str:
+    """делаем все буквы маленькими
+    """
+    return string.lower()
